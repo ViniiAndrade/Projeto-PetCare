@@ -133,5 +133,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## Autor
 
-Feito por **Seu Nome**
-[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://linkedin.com/in/seu-usuario)
+Feito por **Vinicius Andrade**
+[GitHub](https://github.com/ViniiAndrade) · [LinkedIn](https://www.linkedin.com/in/vinicius-andrade-623322234/)
